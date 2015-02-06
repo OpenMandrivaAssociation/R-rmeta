@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.16
-Release:          2
+Release:          3
 Summary:          Meta-analysis
 Group:            Sciences/Mathematics
 License:          GPL-2
